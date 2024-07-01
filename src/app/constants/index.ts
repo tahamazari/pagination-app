@@ -1,0 +1,1 @@
+export const USERS_API = 'https://give-me-users-forever.vercel.app/api'
